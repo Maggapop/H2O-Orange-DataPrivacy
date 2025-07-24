@@ -1,15 +1,16 @@
 body {
-    background-color: rgb(40, 34, 34);
+    background-color: rgb(255, 255, 255);
 }
 h1 {
-    background-color: red;
-    width: fit-content;
+    text-align: center;
 }
 
 h2 {
     color: cyan;
+    text-align: center;
 }
 
 ul {
-    color: white;
+  color: rgb(4, 4, 4);
+  text-align: center;         
 }
