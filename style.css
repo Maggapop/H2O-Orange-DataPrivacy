@@ -1,5 +1,6 @@
 body {
     background-color: rgb(255, 255, 255);
+
 }
 h1 {
     text-align: center;
@@ -13,4 +14,15 @@ h2 {
 ul {
   color: rgb(4, 4, 4);
   text-align: center;         
+}
+
+
+#darkmode-btn{
+    background-color: aqua;
+    display: block;
+    margin: 0 auto;
+} 
+
+.dark-mode{
+    background-color: black;
 }
